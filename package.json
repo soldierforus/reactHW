@@ -1,0 +1,13 @@
+{
+  "name": "helloReact",
+  "version": "1.0.0",
+  "description": "simple react app",
+  "main": "index.js",
+  "repository": {},
+  "author": "Travis Bennett",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1",
+    "nodeman": "^1.1.2"
+  }
+}
